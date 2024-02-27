@@ -1,0 +1,33 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+
+    text-align: center;
+    margin: 0;
+}
+
+#humano{
+    width: 348px;
+    margin: 0;
+
+}
+
+#humano img{
+    margin-bottom: 72px;
+    
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
+}
+
+h1 span {
+    font-weight: bold;
+    
+}
+
+span{
+    color: #ff9900;
+}
