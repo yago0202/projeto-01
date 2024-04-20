@@ -22,4 +22,4 @@ Projeto feito em sala da [Infinity School](https://infinityschool.com.br/).
 
 Professor [Luan Oliveira](https://www.linkedin.com/in/luanpdd/).
 
-![image 1](https://github.com/yago0202/projeto-01/assets/150140424/d6ceaa29-2973-4f4c-b46c-64080f0b551e)
+![Preview](https://github.com/yago0202/projeto-01/assets/150140424/6eaf9b3b-f515-47df-b5df-97677af35e69)
